@@ -1,0 +1,94 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-family: "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 5%;
+}
+
+.left, .right {
+  float: left;
+  width: 50%;
+}
+
+@media (max-width: 1024px) {
+  .left, .right {
+    float: none;
+    width: 100%;
+  }
+}
+
+h1 {
+  font-weight: bold;
+}
+
+a {
+  color: white;
+}
+
+.glitch-button {
+  background: white;
+  display: inline-block;
+  padding: 1px;
+  border-radius: 5px;
+}
+
+.glitch-remix img {
+  display: block;
+}
+
+section {
+  margin-top: 10px;
+  font-size: 12px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 25px;
+}
+
+li {
+  position: relative;
+  line-height: 2em;
+}
+
+li:before {
+  content: '';
+  display: block;
+  position: absolute;
+  left: -25px;
+  top: 5px;
+  width: 0;
+  height: 0;
+  border-bottom: 20px solid yellow;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+}
+
+li:after {
+  content: '';
+  display: block;
+  position:absolute;
+  left: -21px;
+  top: 14px;
+  width: 0;
+  height: 0;
+  border-top: 12px solid black;
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+}
+
+label {
+  padding-right: 5px;
+}
+
+#result {
+  font-size: 16px;
+  background: #222222;
+  border-radius: 5px;
+  padding: 10px;
+  white-space: pre;
+}

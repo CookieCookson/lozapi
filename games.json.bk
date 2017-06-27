@@ -1,0 +1,78 @@
+[
+  {
+    "title": "The Legend of Zelda",
+    "release_date": "1986-02-21"
+  },
+  {
+    "title": "Zelda II: The Adventure of Link",
+    "release_date": "1987-01-14"
+  },
+  {
+    "title": "The Legend of Zelda: A Link to the Past",
+    "release_date": "1991-11-21"
+  },
+  {
+    "title": "The Legend of Zelda: Link's Awakening",
+    "release_date": "1993-06-06"
+  },
+  {
+    "title": "The Legend of Zelda: Ocarina of Time",
+    "release_date": "1998-11-21"
+  },
+  {
+    "title": "The Legend of Zelda: Majora's Mask",
+    "release_date": "2000-04-27"
+  },
+  {
+    "title": "The Legend of Zelda: Oracle of Ages",
+    "release_date": "2001-02-27"
+  },
+  {
+    "title": "The Legend of Zelda: Oracle of Seasons",
+    "release_date": "2001-02-27"
+  },
+  {
+    "title": "The Legend of Zelda: Four Swords",
+    "release_date": "2002-12-02"
+  },
+  {
+    "title": "The Legend of Zelda: The Wind Waker",
+    "release_date": "2002-12-13"
+  },
+  {
+    "title": "The Legend of Zelda: Four Swords Adventures",
+    "release_date": "2004-06-07"
+  },
+  {
+    "title": "The Legend of Zelda: The Minish Cap",
+    "release_date": "2004-11-04"
+  },
+  {
+    "title": "The Legend of Zelda: Twilight Princess",
+    "release_date": "2006-12-02"
+  },
+  {
+    "title": "The Legend of Zelda: Phantom Hourglass",
+    "release_date": "2007-06-23"
+  },
+  {
+    "title": "The Legend of Zelda: Spirit Tracks",
+    "release_date": "2009-12-07"
+  },
+  {
+    "title": "The Legend of Zelda: Skyward Sword",
+    "release_date": "2011-11-18"
+  },
+  {
+    "title": "The Legend of Zelda: A Link Between Worlds",
+    "release_date": "2013-11-22"
+  },
+  {
+    "title": "The Legend of Zelda: Tri Force Heroes",
+    "release_date": "2015-10-22"
+  },
+  {
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "release_date": "2017-03-03"
+  }
+]
